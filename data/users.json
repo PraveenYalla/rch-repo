@@ -1,0 +1,38 @@
+[
+  {
+    "rch_id_no": "128010768683",
+    "health_provider_name": "C Lavanya(143147)",
+    "asha_name": "D Vasantha(122210)",
+    "site_of_ANC_done": "Primary Health Centre",
+    "place_name": "Atmakur (Anantapur)",
+    "ANC_date": "05-11-2021",
+    "weight_of_PW": "56",
+    "maternal_Death": "Yes",
+    "death_date": "05-11-2021",
+    "probable_cause_of_death": "A. Eclampsia"
+  },
+  {
+    "rch_id_no": "128010768683",
+    "health_provider_name": "C Lavanya(143147)",
+    "asha_name": "D Vasantha(122210)",
+    "site_of_ANC_done": "Primary Health Centre",
+    "place_name": "Atmakur (Anantapur)",
+    "ANC_date": "06-11-2021",
+    "weight_of_PW": "55",
+    "maternal_Death": "Yes",
+    "death_date": "08-11-2021",
+    "probable_cause_of_death": "B. Haemorrahge"
+  },
+  {
+    "rch_id_no": "128010768683",
+    "health_provider_name": "C Lavanya(143147)",
+    "asha_name": "D Vasantha(122210)",
+    "site_of_ANC_done": "Primary Health Centre",
+    "place_name": "Atmakur (Anantapur)",
+    "ANC_date": "07-11-2021",
+    "weight_of_PW": "57",
+    "maternal_Death": "No",
+    "death_date": "null",
+    "probable_cause_of_death": "null"
+  }
+]

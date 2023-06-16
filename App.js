@@ -1,12 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-
+import StackNavigator from './StackNavigator';
+import { NetworkProvider } from 'react-native-offline';
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <>
+      <NetworkProvider>
+        <StackNavigator />
+      </NetworkProvider>
+    </>
   );
 }
 
